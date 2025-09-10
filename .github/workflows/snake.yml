@@ -1,30 +1,33 @@
 name: Atualizar Minhoquinha
 
 on:
-  workflow_dispatch:        # permite rodar manualmente
+  workflow_dispatch:          # Permite rodar manualmente
   schedule:
-    - cron: "0 0 * * *"    # roda todo dia à meia-noite (UTC)
+    - cron: "0 0 * * *"      # Roda todo dia à meia-noite (UTC)
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Pega todo o repositório
+      # 1️⃣ Pegar o repositório
       - name: Checkout do repositório
         uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-          fetch-depth: 0
 
-      - name: Criar pasta dist
-        run: mkdir -p dist
-
-
-      # 2️⃣ Gera os arquivos da minhoquinha
+      # 2️⃣ Gerar a minhoquinha
       - name: Gerar Minhoquinha
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
+            dist/github-snake.svg
+            dist/github-snake.gif
+
+      # 3️⃣ Listar arquivos gerados (opcional, para debug)
+      - name: Verificar arquivos gerados
+        run: ls -R dist
+
+      # 4️⃣ Commitar e publicar no branch
+      - name: Publicar arquivos no branch
+        uses: EndBug/add-a
 
