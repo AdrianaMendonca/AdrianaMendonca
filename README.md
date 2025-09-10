@@ -1,5 +1,5 @@
 # 💫 About Me
-# 👋 Olá, mundo! / Hello, world!  
+# 👋 Hello, world!  
 Sou **Adriana Mendonça** 🌸  
 Arquitetando linhas de código e explorando **Front-end** e **Back-end** 💻✨  
 
