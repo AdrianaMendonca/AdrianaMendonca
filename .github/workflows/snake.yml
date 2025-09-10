@@ -17,6 +17,10 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
+      - name: Criar pasta dist
+        run: mkdir -p dist
+
+
       # 2️⃣ Gera os arquivos da minhoquinha
       - name: Gerar Minhoquinha
         uses: Platane/snk@v3
