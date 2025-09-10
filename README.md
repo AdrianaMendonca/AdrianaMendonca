@@ -1,62 +1,67 @@
-# 👋 Olá, mundo! / Hello, world!
-Sou **Adriana Mendonça** 🌸💜  
-Arquitetando linhas de código e sonhos, explorando **Front-end** e **Back-end** 💻✨  
-
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
-
----
-
-## 🌐 Conecte-se comigo | Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E49FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriananmendonca/)  
-[![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriana_natan@hotmail.com)  
+# 💫 About Me
+<span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:28px; color:#FF9A8B;">👋 Olá, mundo!</span> / Hello, world!<br>
+Sou **Adriana Mendonça** 🌸💜  <br>
+Arquitetando linhas de código, explorando **Front-end** e **Back-end** 💻✨  
 
 ---
 
-## 💻 Tecnologias | Tech Stack
-### 🖥️ Front-end
-![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6E49FF?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-6E49FF?style=for-the-badge&logo=react&logoColor=white)
-
-### ⚙️ Back-end
-![C#](https://img.shields.io/badge/C%23-6E49FF?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-FF69B4?style=for-the-badge&logo=.net&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-6E49FF?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Design & Outros
-![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-6E49FF?style=for-the-badge&logo=Canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-FF69B4?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![SketchUp](https://img.shields.io/badge/SketchUp-6E49FF?style=for-the-badge&logo=sketchup&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🌐 Socials
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![Pinterest](https://img.shields.io/badge/Pinterest-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![Email](https://img.shields.io/badge/Email-%23FF9A8B?style=plastic&labelColor=%23000000) 
 
 ---
 
-## 📈 Skills Progress
-- **HTML / CSS / JS** ░░░░░░░░░░ 80% 💜  
-- **React** ░░░░░░░░░░ 60% 💖  
-- **C# / .NET** ░░░░░░░░░░ 50% 💜  
-- **MySQL** ░░░░░░░░░░ 55% 💖  
-- **Design (Figma / Photoshop / Canva)** ░░░░░░░░░░ 70% 💜  
+# 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![CSS3](https://img.shields.io/badge/CSS3-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![C#](https://img.shields.io/badge/C%23-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![.NET](https://img.shields.io/badge/.NET-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![Figma](https://img.shields.io/badge/Figma-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![SketchUp](https://img.shields.io/badge/SketchUp-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![Adobe](https://img.shields.io/badge/Adobe-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![Netlify](https://img.shields.io/badge/Netlify-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![WordPress](https://img.shields.io/badge/WordPress-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![GitHub](https://img.shields.io/badge/GitHub-%23FF9A8B?style=plastic&labelColor=%23000000)
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adriananmendonca&theme=radical&show_icons=true&count_private=true&hide_border=false&bg_color=181717&title_color=FF69B4&icon_color=6E49FF" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adriananmendonca&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriananmendonca&theme=radical&layout=compact" />
-</div>
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=AdrianaMendonca&theme=dark&show_icons=true&count_private=true&hide_border=false&bg_color=000000&text_color=FF9A8B&icon_color=FF9A8B&title_color=FF9A8B)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMendonca&layout=compact&theme=dark&hide_border=false&bg_color=000000&text_color=FF9A8B&title_color=FF9A8B)
 
 ---
 
-## ✨ Visitantes
-[![](https://visitcount.itsvg.in/api?id=adriananmendonca&icon=2&color=FF69B4)](https://visitcount.itsvg.in)
+## 💡 Habilidades Pessoais
+- 🎨 Criatividade & Atenção aos detalhes  
+- 🤝 Comunicação & Trabalho em equipe  
+- 🧩 Resolução de problemas & Pensamento crítico  
+- ✨ Adaptabilidade & Aprendizado contínuo  
 
 ---
 
-> _“Criar é dar forma às ideias — seja em arquitetura ou em código.”_ 💜  
-> _“Building ideas, one line of code at a time.”_ 💖
+## 🛠️ Ferramentas & Workflow
+![VSCode](https://img.shields.io/badge/VSCode-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![Git](https://img.shields.io/badge/Git-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![Trello](https://img.shields.io/badge/Trello-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![Miro](https://img.shields.io/badge/Miro-%23FF9A8B?style=plastic&labelColor=%23000000) 
+![Figma](https://img.shields.io/badge/Figma-%23FF9A8B?style=plastic&labelColor=%23000000)
+
+---
+
+## 📩 Contato
+- 📧 Email: adriana_natan@hotmail.com  
+- 💼 LinkedIn: [Adriana Mendonça](https://www.linkedin.com/in/adriananmendonca/)  
+- 📌 Pinterest: [Adriana Mendonça](https://br.pinterest.com/adriana_natan/)
+
+---
+
+## 💬 Frase Inspiradora
+*"Transformar criatividade em soluções delicadas é o caminho para grandes conquistas."* ✨
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=AdrianaMendonca&icon=4&color=FF9A8B)](https://visitcount.itsvg.in)
+
 
