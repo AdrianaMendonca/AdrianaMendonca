@@ -54,12 +54,4 @@ Arquitetando linhas de código e explorando **Front-end** e **Back-end** 💻✨
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMendonca&layout=compact&theme=dark&hide_border=true&title_color=FFB37C&text_color=FFFFFF&bg_color=000000" />
 </div>
 
-## 🐍 Minhoquinha GitHub
-
-### Versão SVG (melhor qualidade)
-![Minhoquinha SVG](https://raw.githubusercontent.com/AdrianaMendonca/adrianamendonca/output/dist/github-snake.svg)
-
-### Versão GIF (alternativa)
-![Minhoquinha GIF](https://raw.githubusercontent.com/AdrianaMendonca/adrianamendonca/output/dist/github-snake.gif)
-
 
