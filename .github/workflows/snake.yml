@@ -3,7 +3,7 @@ name: Atualizar Minhoquinha
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"   # roda todo dia à meia-noite UTC
+    - cron: "0 0 * * *" # roda todo dia à meia-noite (UTC)
 
 jobs:
   build:
@@ -17,4 +17,13 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.gif?color_snake=FFB37C&color_dots="FFD1DC,FFB37C,FF8C8C,FF5E5E,FF2A2A"
+            dist/github-snake.svg
+            dist/github-snake.gif
+
+      - name: Publicar arquivos no branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Atualizar minhoquinha"
+          add: "dist"
