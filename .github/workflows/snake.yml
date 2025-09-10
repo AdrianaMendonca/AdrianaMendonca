@@ -2,6 +2,8 @@ name: Atualizar Minhoquinha
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"   # roda todo dia à meia-noite UTC
 
 jobs:
   build:
@@ -10,12 +12,9 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v4
 
-      - name: Criar pasta dist
-        run: mkdir -p dist
-
       - name: Gerar Minhoquinha
         uses: Platane/snk@v3
         with:
-          github_user_name: AdrianaMendonca
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.gif?color_snake=FFB37C&color_dots=#000000,#2a2a2a,#555555,#FFB37C,#FF8C8C
+            dist/github-snake.gif?color_snake=FFB37C&color_dots="FFD1DC,FFB37C,FF8C8C,FF5E5E,FF2A2A"
