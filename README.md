@@ -10,7 +10,7 @@ Arquitetando linhas de código e explorando **Front-end** e **Back-end** 💻✨
 ## 🌐 Socials
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/adriananmendon%C3%A7a)">
+  <a href="https://www.linkedin.com/in/adriananmendon%C3%A7a">
     <img height="40" src="https://img.shields.io/badge/LinkedIn-%23FFFFFF?style=plastic&logo=linkedin&logoColor=%23FFB37C" alt="LinkedIn">
   </a>
   <a href="https://pinterest.com/adriana_natan/">
