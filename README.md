@@ -21,6 +21,13 @@ Arquitetando linhas de código e explorando **Front-end** e **Back-end** 💻✨
   </a>
 </div>
 
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrianaMendonca/AdrianaMendonca/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrianaMendonca/AdrianaMendoncaoutput/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdrianaMendonca/AdrianaMendonca/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ## 💻 Tech Stack
