@@ -13,9 +13,6 @@ Arquitetando linhas de código e explorando **Front-end** e **Back-end** 💻✨
   <a href="https://www.linkedin.com/in/adriananmendon%C3%A7a">
     <img height="40" src="https://img.shields.io/badge/LinkedIn-%23FFFFFF?style=plastic&logo=linkedin&logoColor=%23FFB37C" alt="LinkedIn">
   </a>
-  <a href="https://pinterest.com/adriana_natan/">
-    <img height="40" src="https://img.shields.io/badge/Pinterest-%23FFFFFF?style=plastic&logo=pinterest&logoColor=%23FFB37C" alt="Pinterest">
-  </a>
   <a href="mailto:adriana_natan@hotmail.com">
     <img height="40" src="https://img.shields.io/badge/Email-%23FFFFFF?style=plastic&logo=gmail&logoColor=%23FFB37C" alt="Email">
   </a>
