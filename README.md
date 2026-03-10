@@ -1,5 +1,9 @@
-# 💫 About Me
+
 # 👋 Hello, world!  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFB37C&size=30&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Adriana+Mendonça;Front-End+Developer;UX%2FUI+Enthusiast;Sempre+aprendendo+novas+tecnologias" />
+</p>
+
 Sou **Adriana Mendonça** 🌸  
 Arquitetando linhas de código e explorando **Front-end** e **Back-end** 💻✨  
 
