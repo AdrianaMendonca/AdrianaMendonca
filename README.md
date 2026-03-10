@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=FFB37C&size=30&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+Adriana+Mendonça;Front-End+Developer;UX/UI+Enthusiast;Transformando+ideias+em+interfaces+digitais" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFB37C&size=30&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+Adriana+Natan+de+Mendonça;Front-End+Developer;UX/UI+Enthusiast;Transformando+ideias+em+interfaces+digitais" />
 </p>
 
 ---
 
 # 💫 About Me
 
-👋 Olá! Eu sou **Adriana Mendonça**
+👋 Olá! Eu sou **Adriana Natan de Mendonça**
 
 💻 Desenvolvedora focada em **Front-end e UX/UI**  
 🎓 Formada em **Análise e Desenvolvimento de Sistemas – SENAC**  
