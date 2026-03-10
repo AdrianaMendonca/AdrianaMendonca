@@ -48,8 +48,6 @@ Arquitetando linhas de código e explorando **Front-end** e **Back-end** 💻✨
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdrianaMendonca&show_icons=true&theme=tokyonight"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMendonca&layout=compact&theme=tokyonight"/>
