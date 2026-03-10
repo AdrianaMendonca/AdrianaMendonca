@@ -1,10 +1,9 @@
 
 # 👋 Hello, world!  
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=FFB37C&size=30&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Adriana+Mendonça;Front-End+Developer;UX%2FUI+Enthusiast;Sempre+aprendendo+novas+tecnologias" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFB37C&size=30&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Adriana+Natan+de+Mendonça"/>
 </p>
 
-Sou **Adriana Mendonça** 🌸  
 Arquitetando linhas de código e explorando **Front-end** e **Back-end** 💻✨  
 
 *"Criatividade sem limites transforma qualquer desafio em oportunidade."*
@@ -54,11 +53,6 @@ Arquitetando linhas de código e explorando **Front-end** e **Back-end** 💻✨
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMendonca&layout=compact&theme=dark&hide_border=true&title_color=FFB37C&text_color=FFFFFF&bg_color=000000" />
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrianaMendonca/AdrianaMendonca/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrianaMendonca/AdrianaMendonca/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdrianaMendonca/AdrianaMendonca/output/github-contribution-grid-snake.svg">
-</picture>
-<br> </br>
+
 
 
