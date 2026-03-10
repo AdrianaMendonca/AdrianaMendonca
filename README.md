@@ -48,11 +48,12 @@ Arquitetando linhas de código e explorando **Front-end** e **Back-end** 💻✨
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AdrianaMendonca&show_icons=true&theme=dark&hide_border=true&title_color=FFB37C&icon_color=FFB37C&text_color=FFFFFF" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMendonca&layout=compact&theme=dark&hide_border=true&title_color=FFB37C&text_color=FFFFFF&bg_color=000000" />
-</div>
+## 📊 GitHub Stats
 
+<p align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdrianaMendonca&show_icons=true&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMendonca&layout=compact&theme=tokyonight"/>
+</p>
 
 
 
