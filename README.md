@@ -1,57 +1,93 @@
-
-# 👋 Hello, world!  
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=FFB37C&size=30&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Adriana+Natan+de+Mendonça"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFB37C&size=30&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+Adriana+Mendonça;Front-End+Developer;UX/UI+Enthusiast;Transformando+ideias+em+interfaces+digitais" />
 </p>
 
-Arquitetando linhas de código e explorando **Front-end** e **Back-end** 💻✨  
+---
 
-*"Criatividade sem limites transforma qualquer desafio em oportunidade."*
+# 💫 About Me
+
+👋 Olá! Eu sou **Adriana Mendonça**
+
+💻 Desenvolvedora focada em **Front-end e UX/UI**  
+🎓 Formada em **Análise e Desenvolvimento de Sistemas – SENAC**  
+🏗️ Formada também em **Arquitetura e Urbanismo**
+
+Minha formação em arquitetura fortaleceu meu olhar para **design, organização visual e experiência do usuário**, algo que aplico diretamente no desenvolvimento de interfaces.
+
+✨ Gosto de transformar **ideias em interfaces bonitas, funcionais e intuitivas.**
 
 ---
 
-## 🌐 Socials
+# 🌐 Conecte-se comigo
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/adriananmendon%C3%A7a">
-    <img height="40" src="https://img.shields.io/badge/LinkedIn-%23FFFFFF?style=plastic&logo=linkedin&logoColor=%23FFB37C" alt="LinkedIn">
-  </a>
-  <a href="mailto:adriana_natan@hotmail.com">
-    <img height="40" src="https://img.shields.io/badge/Email-%23FFFFFF?style=plastic&logo=gmail&logoColor=%23FFB37C" alt="Email">
-  </a>
-</div>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/adriananmendon%C3%A7a">
+<img src="https://img.shields.io/badge/LinkedIn-FFB37C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:adriana_natan@hotmail.com">
+<img src="https://img.shields.io/badge/Email-FFB37C?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-<div style="display: flex; gap: 60px; flex-wrap: wrap;">
-  <img height="50" src="https://img.shields.io/badge/HTML5-%23000000?style=plastic&logoColor=%23FFB37C" alt="HTML5">
-  <img height="50" src="https://img.shields.io/badge/CSS3-%23000000?style=plastic&logoColor=%23FFB37C" alt="CSS3">
-  <img height="50" src="https://img.shields.io/badge/JavaScript-%23000000?style=plastic&logoColor=%23FFB37C" alt="JavaScript">
-  <img height="50" src="https://img.shields.io/badge/C%23-%23000000?style=plastic&logoColor=%23FFB37C" alt="C#">
-  <img height="50" src="https://img.shields.io/badge/.NET-%23000000?style=plastic&logoColor=%23FFB37C" alt=".NET">
-  <img height="50" src="https://img.shields.io/badge/Figma-%23000000?style=plastic&logoColor=%23FFB37C" alt="Figma">
-  <img height="50" src="https://img.shields.io/badge/Canva-%23000000?style=plastic&logoColor=%23FFB37C" alt="Canva">
-</div>
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFB37C)
 
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFB37C)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFB37C)
 
-## 🛠 Ferramentas / Workflow
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=FFB37C)
+
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=FFB37C)
+
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FFB37C)
+
+---
+
+# 🛠 Ferramentas
+
 - Git & GitHub  
-- VSCode  
-- Figma & Miro  
-- Trello & Jira
+- Figma  
+- Canva  
+- Trello  
+ 
 
 ---
 
+# 🚀 Objetivo
 
-## 📊 GitHub Stats
+Busco oportunidades como **Front-End Developer ou UX/UI Designer**, onde eu possa unir **design e desenvolvimento** para criar experiências digitais eficientes e bem estruturadas.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdrianaMendonca&show_icons=true&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMendonca&layout=compact&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AdrianaMendonca&show_icons=true&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMendonca&layout=compact&theme=tokyonight"/>
+
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdrianaMendonca&theme=onedark&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+✨ *“Criatividade sem limites transforma qualquer desafio em oportunidade.”*
 
 
