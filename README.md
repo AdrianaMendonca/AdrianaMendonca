@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=FFB37C&size=30&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+Adriana+Natan+de+Mendonça;Transformando+ideias+em+interfaces+digitais" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFB37C&size=30&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+Adriana+Natan+de+Mendonça" />
 </p>
 
 ---
