@@ -6,8 +6,6 @@
 
 # 💫 About Me
 
-👋 Olá! Eu sou **Adriana Natan de Mendonça**
-
 💻 Desenvolvedora focada em **Front-end e UX/UI**  
 🎓 Formada em **Análise e Desenvolvimento de Sistemas – SENAC**  
 🏗️ Formada também em **Arquitetura e Urbanismo**
